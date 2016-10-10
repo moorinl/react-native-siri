@@ -1,0 +1,15 @@
+# React Native Siri
+
+React Native SiriKit helpers.
+
+## Status
+
+Under heavy development, a proof of concept will be available on very short notice.
+
+## Todos
+
+- [ ] Install instructions
+- [ ] Bridge requestSiriAuthorization
+- [ ] Bridge handlers
+- [ ] Bridge registering user-specific vocabulary terms
+- [ ] Intent default storyboards (check wether React Native can kick in at this point)
